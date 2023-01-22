@@ -30,7 +30,8 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![Output](./images/circulate.png)
+![reupload](https://user-images.githubusercontent.com/119404951/213900249-4b41bd4e-51c6-46d6-945d-19e8c03c8d7a.png)
+
 
 ## Result:
 Thus, Using the function concept, circulating n variables are executed and displayed successfully.
